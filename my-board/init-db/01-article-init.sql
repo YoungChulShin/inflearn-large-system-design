@@ -1,5 +1,3 @@
-create database article;
-
 use article;
 
 create table if not exists article (
